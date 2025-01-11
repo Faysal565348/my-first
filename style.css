@@ -1,0 +1,33 @@
+*{
+
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+  
+  
+}
+.first-div{
+  background-color: #c6E4D6;
+  display: flex;
+  /* justify-content: space-between; */
+  padding: 80px 100px;
+  width: 1600px;
+  height:650px ;
+  border-radius: 24px;
+  gap: 80px;
+
+}
+.secend-div{
+  width: 622px;
+  height: 326px;
+  align-items: start;
+  padding: 0;
+}
+.first-hd{
+  font-size:medium;
+  color: #635c5c ;
+  margin-bottom: 16px;
+}
+.first-pra{
+  font-size:56px;
+  
+}
